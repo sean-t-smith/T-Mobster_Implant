@@ -1,4 +1,5 @@
-# T-Mobster
+# How to Build the Perfect Red Team Hardware Implant
+
 There are no good COTS hardware implants available on the market, I have spent the last 3 years building, testing, and using my own custom devices in real-world assessments. This document will focus on the key considerations, materials, and instructions to craft a purpose-built network hardware implant to effectively breach a network during Red Team Engagements.
 
 # Why is this important?
