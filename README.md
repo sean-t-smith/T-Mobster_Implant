@@ -10,4 +10,6 @@ Presenting the engagement results to the organization’s non-technical leadersh
 
 # Time to share what I’ve learned!
 
-Download the [full guide here](https://github.com/sean-t-smith/T-Mobster/blob/main/How%20to%20Build%20the%20Perfect%20Red%20Team%20Hardware%20Implant%20-%2020230311.pdf)
+Download the [full guide here](https://github.com/sean-t-smith/T-Mobster/blob/main/How%20to%20Build%20the%20Perfect%20Red%20Team%20Hardware%20Implant%20-%2020230311.pdf).
+Watch a [demo here](https://youtu.be/uCErFs0Q_7g).
+
